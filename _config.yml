@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone:
 
 # URL
@@ -80,4 +80,4 @@ theme: pure
 deploy:
   type: git
   repository: https://github.com/wildmaker/wildmaker.github.io
-  branch: gh-pages
+  branch: master
